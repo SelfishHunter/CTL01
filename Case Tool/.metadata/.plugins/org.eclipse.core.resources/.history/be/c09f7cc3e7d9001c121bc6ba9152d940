@@ -1,0 +1,8 @@
+package interest_calculator;
+public class Interest_calc {
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

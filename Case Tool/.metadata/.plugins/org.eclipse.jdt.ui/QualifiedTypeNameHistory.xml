@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Disabled"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.DisplayName"/>
+    <fullyQualifiedTypeName name="Junit.I_calculator"/>
+    <fullyQualifiedTypeName name="interest_calculator.Junit"/>
+    <fullyQualifiedTypeName name="interest_calculator.I_calculator"/>
+</qualifiedTypeNameHistroy>

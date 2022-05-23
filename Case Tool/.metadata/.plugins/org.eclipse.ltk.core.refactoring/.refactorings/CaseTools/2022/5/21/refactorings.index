@@ -1,0 +1,6 @@
+1652866068817	Rename local variable 'm'
+1652866806128	Extract method 'printmarks'
+1652867378165	Change method 'printmarks'
+1652867569629	Extract constant 'Firstnumber'
+1652867629659	Extract constant 'FifthNumber'
+1652867764121	Extract local variable 'Thirdnumber'

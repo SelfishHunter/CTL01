@@ -1,0 +1,12 @@
+package Junit;
+
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import interest_calculator.I_calculator;
+class Junit {
+	interest_calculator.I_calculator ic = new interest_calculator.I_calculator();
+	@DisplayName("Simple interest")
+
+
+}

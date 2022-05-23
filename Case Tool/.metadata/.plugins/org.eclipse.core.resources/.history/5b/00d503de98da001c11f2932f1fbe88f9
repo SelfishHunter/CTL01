@@ -1,0 +1,20 @@
+package interest_calculator;
+
+//import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+//import interest_calculator.I_calculator;
+class Junit5 {
+
+	@Test
+	@DisplayName("Simple Interest")
+
+	void test1() {
+	//	interest_calculator.I_calculator ic = new interest_calculator.I_calculator();
+//		ic.setPrinciple(1000);
+	//	ic.setTime(5);
+		//ic.setRate(100);
+		//ic.SI();
+	}
+
+}

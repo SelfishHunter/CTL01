@@ -1,0 +1,10 @@
+package Junit;
+
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import jui
+public class Junit5
+{
+	
+}

@@ -1,0 +1,22 @@
+package Refact;
+
+public class Refactor {
+
+	public static void main(String[] args) 
+	{
+		int [] marks = {1,2,3,4,5};
+		printmarks(marks, 0);
+	}
+
+	/**
+	 * @param marks
+	 * @param count TODO
+	 */
+	private static void printmarks(int[] marks, int count) {
+		for (int mark:marks)
+		{
+			System.out.println(mark);
+		}
+	}
+
+}

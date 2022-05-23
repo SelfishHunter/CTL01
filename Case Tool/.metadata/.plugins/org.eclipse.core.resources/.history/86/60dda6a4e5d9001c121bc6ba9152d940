@@ -1,0 +1,63 @@
+package interest_calculator;
+
+public class I_calculator 
+{
+	private double Rate,Time,Si,Principle,C_Rate,C_Time,Num;
+
+	public void setRate(double rate) {
+		Rate = rate;
+	}
+
+	public void setTime(double time) {
+		Time = time;
+	}
+
+	public void setSi(double si) {
+		Si = si;
+	}
+
+	public void setPrinciple(double principle) {
+		Principle = principle;
+	}
+
+	public void setC_Rate(double c_Rate) {
+		C_Rate = c_Rate;
+	}
+
+	public void setC_Time(double c_Time) {
+		C_Time = c_Time;
+	}
+	
+	public double getRate() {
+		return Rate;
+	}
+
+	public double getTime() {
+		return Time;
+	}
+
+	public double getSi() {
+		return Si;
+	}
+
+	public double getPrinciple() {
+		return Principle;
+	}
+
+	public double getC_Rate() {
+		return C_Rate;
+	}
+
+	public double getC_Time() {
+		return C_Time;
+	}
+
+	public double getNum() {
+		return Num;
+	}
+	 public double SI()
+	 {
+		 return (Principle*Time*Rate)/100;
+	 }
+
+}

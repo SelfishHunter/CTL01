@@ -1,0 +1,35 @@
+package interest_calculator;
+import java.util.Scanner;
+
+public class Interest_calc {
+
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		int opt ;
+		System.out.println("Interest-Calculator");
+		System.out.println("1 : Simple-Interest Calculator");
+		System.out.println("2 : Compound-Interest Calculator");
+		System.out.println("3 : Average Of FIVE Numbers");
+		System.out.println("please choose ur  choice....");
+		opt = sc.nextInt();
+		
+		switch (opt)
+		{
+		case 1 :
+			I_calculator obj = new I_calculator ();
+			System.out.println("enter principle amt");
+			obj.setPrinciple(sc.nextDouble());
+			System.out.println("enter time ");
+			obj.setTime(sc.nextDouble());
+			System.out.println("enter rate");
+			obj.setTime(sc.nextDouble());
+
+
+		}
+
+
+
+	}
+
+}

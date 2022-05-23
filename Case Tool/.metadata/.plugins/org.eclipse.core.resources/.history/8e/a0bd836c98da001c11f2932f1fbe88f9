@@ -1,0 +1,16 @@
+package interest_calculator;
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+
+import org.junit.jupiter.api.Test;
+
+class Junit5 {
+
+	@Test
+	@DisplayName("Simple Interest")
+	void test1() {
+	int a =10;
+	}
+
+}
